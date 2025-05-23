@@ -1,2 +1,2 @@
-# Portfolio-cybersecurity
-Cybersecurity portfolio/learning journal 
+# My Cybersecurity Portfolio
+Cybersecurity? What is it?
